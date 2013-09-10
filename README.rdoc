@@ -1,4 +1,5 @@
 BASE 3 is a Rails 3.2.3 application
 
 • Framework uses: Cardinal CSS http://cardinalcss.com/ (which uses Normailize for a base reset)  
+
 • Animo.js + Animate.css ( http://labs.bigroomstudios.com/libraries/animo-js / http://daneden.me/animate/) for simple css animations
