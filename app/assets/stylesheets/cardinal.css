@@ -1110,9 +1110,22 @@ table.stripes tbody > tr:nth-child(odd) > td {
 
 
 
-/**
- * YOUR MAGICAL CSS GOES HERE!
- */
+header { 
+  background: #222;
+  padding: 10px 0;
+  .title {color: #ccc;}
+}
+
+nav ul {text-align: right;}
+nav ul li {display: inline-block;}
+
+.primary {
+  background: #778899; 
+  color: #FFF;
+  text-shadow: 0px 2px #546270;
+}
+
+.demo .button {margin-top: 8px;}
 
 
 
